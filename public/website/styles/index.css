@@ -8,7 +8,7 @@ nav img{
     width:50px;
 }
 
-nav .leftnav, nav .rightnav{
+nav .leftnav{
     display:flex;
     flex-direction:row;
 }
@@ -30,6 +30,7 @@ nav .signin{
     padding: 10px;
    color:white;
    border-radius: 7px;
+   margin-bottom: 10px;
 
 }
 nav{
